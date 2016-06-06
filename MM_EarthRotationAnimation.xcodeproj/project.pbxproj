@@ -15,6 +15,16 @@
 		59B81BBE1D056EC600EAC871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BBC1D056EC600EAC871 /* LaunchScreen.storyboard */; };
 		59B81BC91D056EC600EAC871 /* MM_EarthRotationAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59B81BC81D056EC600EAC871 /* MM_EarthRotationAnimationTests.m */; };
 		59B81BD41D056EC600EAC871 /* MM_EarthRotationAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 59B81BD31D056EC600EAC871 /* MM_EarthRotationAnimationUITests.m */; };
+		59B81C0E1D056FA500EAC871 /* 5_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF31D056FA500EAC871 /* 5_05.png */; };
+		59B81C0F1D056FA500EAC871 /* run1.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF41D056FA500EAC871 /* run1.png */; };
+		59B81C101D056FA500EAC871 /* run2.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF51D056FA500EAC871 /* run2.png */; };
+		59B81C111D056FA500EAC871 /* run3.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF61D056FA500EAC871 /* run3.png */; };
+		59B81C121D056FA500EAC871 /* run4.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF71D056FA500EAC871 /* run4.png */; };
+		59B81C131D056FA500EAC871 /* run5.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF81D056FA500EAC871 /* run5.png */; };
+		59B81C141D056FA500EAC871 /* run6.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BF91D056FA500EAC871 /* run6.png */; };
+		59B81C151D056FA500EAC871 /* run7.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BFA1D056FA500EAC871 /* run7.png */; };
+		59B81C161D056FA500EAC871 /* run8.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BFB1D056FA500EAC871 /* run8.png */; };
+		59B81C171D056FA500EAC871 /* run9.png in Resources */ = {isa = PBXBuildFile; fileRef = 59B81BFC1D056FA500EAC871 /* run9.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,16 @@
 		59B81BCF1D056EC600EAC871 /* MM_EarthRotationAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MM_EarthRotationAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59B81BD31D056EC600EAC871 /* MM_EarthRotationAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MM_EarthRotationAnimationUITests.m; sourceTree = "<group>"; };
 		59B81BD51D056EC600EAC871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59B81BF31D056FA500EAC871 /* 5_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5_05.png; sourceTree = "<group>"; };
+		59B81BF41D056FA500EAC871 /* run1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run1.png; sourceTree = "<group>"; };
+		59B81BF51D056FA500EAC871 /* run2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run2.png; sourceTree = "<group>"; };
+		59B81BF61D056FA500EAC871 /* run3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run3.png; sourceTree = "<group>"; };
+		59B81BF71D056FA500EAC871 /* run4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run4.png; sourceTree = "<group>"; };
+		59B81BF81D056FA500EAC871 /* run5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run5.png; sourceTree = "<group>"; };
+		59B81BF91D056FA500EAC871 /* run6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run6.png; sourceTree = "<group>"; };
+		59B81BFA1D056FA500EAC871 /* run7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run7.png; sourceTree = "<group>"; };
+		59B81BFB1D056FA500EAC871 /* run8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run8.png; sourceTree = "<group>"; };
+		59B81BFC1D056FA500EAC871 /* run9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run9.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +121,7 @@
 		59B81BAD1D056EC600EAC871 /* MM_EarthRotationAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				59B81BE11D056FA500EAC871 /* ImagesResource */,
 				59B81BB11D056EC600EAC871 /* AppDelegate.h */,
 				59B81BB21D056EC600EAC871 /* AppDelegate.m */,
 				59B81BB41D056EC600EAC871 /* ViewController.h */,
@@ -138,6 +159,23 @@
 				59B81BD51D056EC600EAC871 /* Info.plist */,
 			);
 			path = MM_EarthRotationAnimationUITests;
+			sourceTree = "<group>";
+		};
+		59B81BE11D056FA500EAC871 /* ImagesResource */ = {
+			isa = PBXGroup;
+			children = (
+				59B81BF31D056FA500EAC871 /* 5_05.png */,
+				59B81BF41D056FA500EAC871 /* run1.png */,
+				59B81BF51D056FA500EAC871 /* run2.png */,
+				59B81BF61D056FA500EAC871 /* run3.png */,
+				59B81BF71D056FA500EAC871 /* run4.png */,
+				59B81BF81D056FA500EAC871 /* run5.png */,
+				59B81BF91D056FA500EAC871 /* run6.png */,
+				59B81BFA1D056FA500EAC871 /* run7.png */,
+				59B81BFB1D056FA500EAC871 /* run8.png */,
+				59B81BFC1D056FA500EAC871 /* run9.png */,
+			);
+			path = ImagesResource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +281,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59B81C131D056FA500EAC871 /* run5.png in Resources */,
+				59B81C141D056FA500EAC871 /* run6.png in Resources */,
+				59B81C0E1D056FA500EAC871 /* 5_05.png in Resources */,
+				59B81C171D056FA500EAC871 /* run9.png in Resources */,
+				59B81C101D056FA500EAC871 /* run2.png in Resources */,
+				59B81C121D056FA500EAC871 /* run4.png in Resources */,
+				59B81C111D056FA500EAC871 /* run3.png in Resources */,
+				59B81C0F1D056FA500EAC871 /* run1.png in Resources */,
 				59B81BBE1D056EC600EAC871 /* LaunchScreen.storyboard in Resources */,
 				59B81BBB1D056EC600EAC871 /* Assets.xcassets in Resources */,
 				59B81BB91D056EC600EAC871 /* Main.storyboard in Resources */,
+				59B81C161D056FA500EAC871 /* run8.png in Resources */,
+				59B81C151D056FA500EAC871 /* run7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
